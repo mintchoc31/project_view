@@ -1316,7 +1316,7 @@ General Styles - Owlcarousel
   display: block;
   right: 0;
   top: 50%;
-  margin-top: -6px;
+  margin-top: 3px;
   font: normal normal normal 14px/1 FontAwesome;
   font-size: 9px;
   content: "\f107";

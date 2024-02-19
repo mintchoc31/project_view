@@ -3975,7 +3975,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-   
 }
 .nav > li {
   position: relative;
@@ -4486,7 +4485,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left !important;
   }
   .navbar-right {
-    float: left !important;
+    float: right !important;
     margin-right: -15px;
   }
   .navbar-right ~ .navbar-right {
